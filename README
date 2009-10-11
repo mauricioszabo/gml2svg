@@ -1,0 +1,16 @@
+GML to SVG
+
+Graças ao excelente programa gratuito yEd, é possível criar grafos excelentes. O problema que
+eu tive com esse programa é - ele não é livre, e a licença dele proíbe terminantemente de
+decompilar, descompactar, e até mesmo usar o programa em processos automatizados.
+
+O problema é justamente esse: ele lê os grafos em um formato (.gml), e seria bem difícil
+ter que converter o grafo para HTML sempre que fosse publicar o programa. Seria bem mais
+simples criar uma imagem, digamos um SVG, e linkar isso com uma página web. Assim é até possível
+usar em processos automatizados, e até adicionar links. Por isso, foi criado o projeto gml2svg,
+que tenta converter esses dois formatos.
+
+Basta rodar, para converter o grafo:
+ruby conversor_gml.rb <grafo.gml>
+
+E o resultado sairá na saída padrão.
