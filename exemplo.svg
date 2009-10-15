@@ -1,7 +1,606 @@
 <?xml version='1.0' standalone='no'?>
 <!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 20010904//EN' 'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
 <svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>
-        <rect width='200' y='20' height='100' x='10' stroke='black' fill-stroke='black' fill='none' />
-                <text y='100'>Algo</text>
-                </svg>
-
+  <style>
+    * {
+      font-size: 13px;
+    }
+  </style>
+	<line x1='1025.0' x2='1025.0' y1='1652.0' stroke-width='1' stroke='black' y2='1615.0'/>
+	<line x1='1025.0' x2='1025.0' y1='1535.0' stroke-width='1' stroke='black' y2='1482.0'/>
+	<line x1='1025.0' x2='1025.0' y1='1418.0' stroke-width='1' stroke='black' y2='1365.0'/>
+	<line x1='1025.0' x2='1025.0' y1='1285.0' stroke-width='1' stroke='black' y2='1242.0'/>
+	<line x1='1025.0' x2='1025.0' y1='858.0' stroke-width='1' stroke='black' y2='823.0'/>
+	<line x1='1095.0' x2='1334.0' y1='1050.0' stroke-width='1' stroke='black' y2='1050.0'/>
+	<line x1='955.0' x2='875.0' y1='1050.0' stroke-width='1' stroke='black' y2='1050.0'/>
+	<line x1='875.0' x2='875.000000596046' y1='1050.0' stroke-width='1' stroke='black' y2='1719.0'/>
+	<line x1='1399.9999987781' x2='1400.0' y1='1170.0' stroke-width='1' stroke='black' y2='1775.0'/>
+	<line x1='1400.0' x2='920.0' y1='1775.0' stroke-width='1' stroke='black' y2='1775.0'/>
+	<line x1='1425.0' x2='1425.0' y1='930.0' stroke-width='1' stroke='black' y2='625.0'/>
+	<line x1='1425.0' x2='1391.5' y1='625.0' stroke-width='1' stroke='black' y2='625.0'/>
+	<line x1='1516.0' x2='2050.0' y1='1074.99999940395' stroke-width='1' stroke='black' y2='1075.0'/>
+	<line x1='2050.0' x2='2049.99999940395' y1='1075.0' stroke-width='1' stroke='black' y2='1153.0'/>
+	<line x1='1374.99999755621' x2='1375.0' y1='930.0' stroke-width='1' stroke='black' y2='900.0'/>
+	<line x1='1375.0' x2='1291.5' y1='900.0' stroke-width='1' stroke='black' y2='900.0'/>
+	<line x1='1425.0' x2='1425.0' y1='1170.0' stroke-width='1' stroke='black' y2='1900.0'/>
+	<line x1='1425.0' x2='2900.0' y1='1900.0' stroke-width='1' stroke='black' y2='1900.0'/>
+	<line x1='2900.0' x2='2900.0' y1='1900.0' stroke-width='1' stroke='black' y2='1623.0'/>
+	<line x1='1516.0' x2='2083.5' y1='1050.0' stroke-width='1' stroke='black' y2='1050.0'/>
+	<line x1='1450.0000012219' x2='1450.0' y1='1170.0' stroke-width='1' stroke='black' y2='1575.0'/>
+	<line x1='1450.0' x2='2830.0' y1='1575.0' stroke-width='1' stroke='black' y2='1575.0'/>
+	<line x1='2874.99999940395' x2='2875.0' y1='1527.0' stroke-width='1' stroke='black' y2='1500.0'/>
+	<line x1='2875.0' x2='2766.5' y1='1500.0' stroke-width='1' stroke='black' y2='1500.0'/>
+	<line x1='2900.0' x2='2900.0' y1='1527.0' stroke-width='1' stroke='black' y2='1447.0'/>
+	<line x1='2700.0' x2='2700.0' y1='1460.0' stroke-width='1' stroke='black' y2='1423.0'/>
+	<line x1='2466.0' x2='2350.0' y1='875.0' stroke-width='1' stroke='black' y2='875.0'/>
+	<line x1='2350.0' x2='2350.0' y1='875.0' stroke-width='1' stroke='black' y2='960.0'/>
+	<line x1='2525.00000023842' x2='2525.0' y1='955.0' stroke-width='1' stroke='black' y2='1000.0'/>
+	<line x1='2525.0' x2='2420.0' y1='1000.0' stroke-width='1' stroke='black' y2='1000.0'/>
+	<line x1='2605.5' x2='2575.0' y1='1350.00000095367' stroke-width='1' stroke='black' y2='1350.0'/>
+	<line x1='2575.0' x2='2574.99999976158' y1='1350.0' stroke-width='1' stroke='black' y2='955.0'/>
+	<line x1='1475.00000244379' x2='1475.0' y1='1170.0' stroke-width='1' stroke='black' y2='1225.0'/>
+	<line x1='1475.0' x2='2005.0' y1='1225.0' stroke-width='1' stroke='black' y2='1225.0'/>
+	<line x1='2075.0' x2='2075.0' y1='1153.0' stroke-width='1' stroke='black' y2='1125.0'/>
+	<line x1='2075.0' x2='2258.5' y1='1125.0' stroke-width='1' stroke='black' y2='1125.0'/>
+	<line x1='2183.5' x2='2141.5' y1='1375.0' stroke-width='1' stroke='black' y2='1375.0'/>
+	<line x1='2145.0' x2='2550.0' y1='1225.0' stroke-width='1' stroke='black' y2='1225.0'/>
+	<line x1='2550.0' x2='2550.0' y1='1225.0' stroke-width='1' stroke='black' y2='955.0'/>
+	<line x1='2605.5' x2='2316.5' y1='1375.0' stroke-width='1' stroke='black' y2='1375.0'/>
+	<line x1='850.0' x2='850.0' y1='1831.0' stroke-width='1' stroke='black' y2='1875.0'/>
+	<line x1='850.0' x2='2075.0' y1='1875.0' stroke-width='1' stroke='black' y2='1875.0'/>
+	<line x1='2075.0' x2='2075.0' y1='1875.0' stroke-width='1' stroke='black' y2='1423.0'/>
+	<line x1='2075.0' x2='2075.0' y1='1327.0' stroke-width='1' stroke='black' y2='1297.0'/>
+	<line x1='2008.5' x2='1966.5' y1='1375.0' stroke-width='1' stroke='black' y2='1375.0'/>
+	<line x1='1833.5' x2='1791.5' y1='1375.0' stroke-width='1' stroke='black' y2='1375.0'/>
+	<line x1='1658.5' x2='1616.5' y1='1375.0' stroke-width='1' stroke='black' y2='1375.0'/>
+	<line x1='2794.5' x2='2833.5' y1='1375.0' stroke-width='1' stroke='black' y2='1375.0'/>
+	<line x1='2634.0' x2='2700.0' y1='875.0' stroke-width='1' stroke='black' y2='875.0'/>
+	<line x1='2700.0' x2='2700.0' y1='875.0' stroke-width='1' stroke='black' y2='1327.0'/>
+	<line x1='2525.00000023842' x2='2525.0' y1='795.0' stroke-width='1' stroke='black' y2='250.0'/>
+	<line x1='2525.0' x2='850.0' y1='250.0' stroke-width='1' stroke='black' y2='250.0'/>
+	<line x1='850.0' x2='850.0' y1='250.0' stroke-width='1' stroke='black' y2='318.0'/>
+	<line x1='916.5' x2='2083.5' y1='350.0' stroke-width='1' stroke='black' y2='350.0'/>
+	<line x1='874.999999761581' x2='875.0' y1='382.0' stroke-width='1' stroke='black' y2='775.0'/>
+	<line x1='875.0' x2='958.5' y1='775.0' stroke-width='1' stroke='black' y2='775.0'/>
+	<line x1='850.0' x2='850.0' y1='382.0' stroke-width='1' stroke='black' y2='1719.0'/>
+	<line x1='2150.0' x2='2150.0' y1='318.0' stroke-width='1' stroke='black' y2='275.0'/>
+	<line x1='2150.0' x2='2250.0' y1='275.0' stroke-width='1' stroke='black' y2='275.0'/>
+	<line x1='2250.0' x2='2250.0' y1='275.0' stroke-width='1' stroke='black' y2='350.0'/>
+	<line x1='2250.0' x2='2216.5' y1='350.0' stroke-width='1' stroke='black' y2='350.0'/>
+	<line x1='2150.0' x2='2150.0' y1='382.0' stroke-width='1' stroke='black' y2='436.0'/>
+	<line x1='2220.0' x2='2305.0' y1='500.0' stroke-width='1' stroke='black' y2='500.0'/>
+	<line x1='2500.00000047684' x2='2500.0' y1='795.0' stroke-width='1' stroke='black' y2='500.0'/>
+	<line x1='2500.0' x2='2445.0' y1='500.0' stroke-width='1' stroke='black' y2='500.0'/>
+	<line x1='2150.0' x2='2150.0' y1='1002.0' stroke-width='1' stroke='black' y2='564.0'/>
+	<line x1='1325.0' x2='1325.0' y1='569.0' stroke-width='1' stroke='black' y2='525.0'/>
+	<line x1='1325.0' x2='2080.0' y1='525.0' stroke-width='1' stroke='black' y2='525.0'/>
+	<line x1='2305.0' x2='2250.0' y1='524.999999046326' stroke-width='1' stroke='black' y2='525.0'/>
+	<line x1='2250.0' x2='2250.0' y1='525.0' stroke-width='1' stroke='black' y2='625.0'/>
+	<line x1='2250.0' x2='2280.5' y1='625.0' stroke-width='1' stroke='black' y2='625.0'/>
+	<line x1='2375.0' x2='2375.0' y1='548.0' stroke-width='1' stroke='black' y2='585.0'/>
+	<line x1='1334.0' x2='1125.0' y1='1025.00000059605' stroke-width='1' stroke='black' y2='1025.0'/>
+	<line x1='1125.0' x2='1125.0' y1='1025.0' stroke-width='1' stroke='black' y2='556.0'/>
+	<line x1='1191.5' x2='2080.0' y1='500.0' stroke-width='1' stroke='black' y2='500.0'/>
+	<line x1='1399.9999987781' x2='1400.0' y1='930.0' stroke-width='1' stroke='black' y2='775.0'/>
+	<line x1='1400.0' x2='1370.0' y1='775.0' stroke-width='1' stroke='black' y2='775.0'/>
+	<line x1='1450.0000012219' x2='1450.0' y1='930.0' stroke-width='1' stroke='black' y2='550.0'/>
+	<line x1='1450.0' x2='2080.0' y1='550.0' stroke-width='1' stroke='black' y2='550.0'/>
+	<line x1='780.0' x2='716.5' y1='1775.0' stroke-width='1' stroke='black' y2='1775.0'/>
+	<line x1='650.0' x2='650.0' y1='1735.0' stroke-width='1' stroke='black' y2='150.0'/>
+	<line x1='650.0' x2='2455.5' y1='150.0' stroke-width='1' stroke='black' y2='150.0'/>
+	<line x1='650.0' x2='650.0' y1='1815.0' stroke-width='1' stroke='black' y2='1861.0'/>
+	<line x1='2550.0' x2='2550.0' y1='222.0' stroke-width='1' stroke='black' y2='795.0'/>
+	<line x1='2644.5' x2='2900.0' y1='150.0' stroke-width='1' stroke='black' y2='150.0'/>
+	<line x1='2900.0' x2='2900.0' y1='150.0' stroke-width='1' stroke='black' y2='1303.0'/>
+	<line x1='355.5' x2='305.0' y1='1775.0' stroke-width='1' stroke='black' y2='1775.0'/>
+	<line x1='583.5' x2='544.5' y1='1775.0' stroke-width='1' stroke='black' y2='1775.0'/>
+	<rect width='140.0' y='735.0' height='80.0' fill='#FFCC00' stroke-width='2' stroke='#000000' x='1230.0'/>
+	<text y='755.0' x='1235.0'>Emissao</text>
+	<text y='763.0' x='1235.0'>-------------</text>
+	<text y='771.0' x='1235.0'></text>
+	<text y='779.0' x='1235.0'>id: chave prim&#xe1;ria</text>
+	<text y='787.0' x='1235.0'></text>
+	<text y='795.0' x='1235.0'>tipo: chave</text>
+	<text y='803.0' x='1235.0'></text>
+	<text y='811.0' x='1235.0'>codigo_autenticidade</text>
+	<rect width='133.0' y='1319.0' height='112.0' fill='#FFCC00' stroke-width='2' stroke='#000000' x='2183.5'/>
+	<text y='1339.0' x='2188.5'>Horario</text>
+	<text y='1347.0' x='2188.5'>-------------</text>
+	<text y='1355.0' x='2188.5'></text>
+	<text y='1363.0' x='2188.5'>id: chave prim&#xe1;ria</text>
+	<text y='1371.0' x='2188.5'></text>
+	<text y='1379.0' x='2188.5'>dia_semana</text>
+	<text y='1387.0' x='2188.5'></text>
+	<text y='1395.0' x='2188.5'>hora_inicio</text>
+	<text y='1403.0' x='2188.5'></text>
+	<text y='1411.0' x='2188.5'>hora_fim</text>
+	<text y='1419.0' x='2188.5'></text>
+	<text y='1427.0' x='2188.5'>grupo_id: chave</text>
+	<rect width='133.0' y='569.0' height='112.0' fill='#FFCC00' stroke-width='2' stroke='#000000' x='1258.5'/>
+	<text y='589.0' x='1263.5'>OpcaoCurso</text>
+	<text y='597.0' x='1263.5'>-------------</text>
+	<text y='605.0' x='1263.5'></text>
+	<text y='613.0' x='1263.5'>id: chave prim&#xe1;ria</text>
+	<text y='621.0' x='1263.5'></text>
+	<text y='629.0' x='1263.5'>aluno_id: chave</text>
+	<text y='637.0' x='1263.5'></text>
+	<text y='645.0' x='1263.5'>grade_id: chave</text>
+	<text y='653.0' x='1263.5'></text>
+	<text y='661.0' x='1263.5'>ano: chave</text>
+	<text y='669.0' x='1263.5'></text>
+	<text y='677.0' x='1263.5'>periodo: chave</text>
+	<rect width='133.0' y='2027.0' height='96.0' fill='#FFCC00' stroke-width='2' stroke='#000000' x='508.5'/>
+	<text y='2047.0' x='513.5'>PeriodoAlocacaoDidatica</text>
+	<text y='2055.0' x='513.5'>-------------</text>
+	<text y='2063.0' x='513.5'></text>
+	<text y='2071.0' x='513.5'>id: chave prim&#xe1;ria</text>
+	<text y='2079.0' x='513.5'></text>
+	<text y='2087.0' x='513.5'>ano</text>
+	<text y='2095.0' x='513.5'></text>
+	<text y='2103.0' x='513.5'>inicio: chave</text>
+	<text y='2111.0' x='513.5'></text>
+	<text y='2119.0' x='513.5'>fim: chave</text>
+	<rect width='133.0' y='318.0' height='64.0' fill='#FFCC00' stroke-width='2' stroke='#000000' x='2083.5'/>
+	<text y='338.0' x='2088.5'>Curso</text>
+	<text y='346.0' x='2088.5'>-------------</text>
+	<text y='354.0' x='2088.5'></text>
+	<text y='362.0' x='2088.5'>id: chave prim&#xe1;ria</text>
+	<text y='370.0' x='2088.5'></text>
+	<text y='378.0' x='2088.5'>nome</text>
+	<rect width='168.0' y='795.0' height='160.0' fill='#FFCC00' stroke-width='2' stroke='#000000' x='2466.0'/>
+	<text y='815.0' x='2471.0'>Disciplina</text>
+	<text y='823.0' x='2471.0'>-------------</text>
+	<text y='831.0' x='2471.0'></text>
+	<text y='839.0' x='2471.0'>id: chave prim&#xe1;ria</text>
+	<text y='847.0' x='2471.0'></text>
+	<text y='855.0' x='2471.0'>codigo: chave</text>
+	<text y='863.0' x='2471.0'></text>
+	<text y='871.0' x='2471.0'>setor_id: chave</text>
+	<text y='879.0' x='2471.0'></text>
+	<text y='887.0' x='2471.0'>nome</text>
+	<text y='895.0' x='2471.0'></text>
+	<text y='903.0' x='2471.0'>carga_horaria_teorica</text>
+	<text y='911.0' x='2471.0'></text>
+	<text y='919.0' x='2471.0'>carga_horaria_pratica</text>
+	<text y='927.0' x='2471.0'></text>
+	<text y='935.0' x='2471.0'>carga_horaria_individual</text>
+	<text y='943.0' x='2471.0'></text>
+	<text y='951.0' x='2471.0'>ementa</text>
+	<rect width='133.0' y='1285.0' height='80.0' fill='#FFCC00' stroke-width='2' stroke='#000000' x='958.5'/>
+	<text y='1305.0' x='963.5'>PessoaPerfil</text>
+	<text y='1313.0' x='963.5'>-------------</text>
+	<text y='1321.0' x='963.5'></text>
+	<text y='1329.0' x='963.5'>id: chave prim&#xe1;ria</text>
+	<text y='1337.0' x='963.5'></text>
+	<text y='1345.0' x='963.5'>pessoa_id: chave</text>
+	<text y='1353.0' x='963.5'></text>
+	<text y='1361.0' x='963.5'>perfil_id: chave</text>
+	<rect width='133.0' y='2028.0' height='144.0' fill='#FFCC00' stroke-width='2' stroke='#000000' x='83.5'/>
+	<text y='2048.0' x='88.5'>Auditoria</text>
+	<text y='2056.0' x='88.5'>-------------</text>
+	<text y='2064.0' x='88.5'></text>
+	<text y='2072.0' x='88.5'>id: chave prim&#xe1;ria</text>
+	<text y='2080.0' x='88.5'></text>
+	<text y='2088.0' x='88.5'>tabela: chave</text>
+	<text y='2096.0' x='88.5'></text>
+	<text y='2104.0' x='88.5'>campo: chave</text>
+	<text y='2112.0' x='88.5'></text>
+	<text y='2120.0' x='88.5'>usuario: chave</text>
+	<text y='2128.0' x='88.5'></text>
+	<text y='2136.0' x='88.5'>id_externo</text>
+	<text y='2144.0' x='88.5'></text>
+	<text y='2152.0' x='88.5'>valor_anterior</text>
+	<text y='2160.0' x='88.5'></text>
+	<text y='2168.0' x='88.5'>valor_posterior</text>
+	<rect width='133.0' y='1343.0' height='64.0' fill='#FFCC00' stroke-width='2' stroke='#000000' x='1483.5'/>
+	<text y='1363.0' x='1488.5'>Campus</text>
+	<text y='1371.0' x='1488.5'>-------------</text>
+	<text y='1379.0' x='1488.5'></text>
+	<text y='1387.0' x='1488.5'>id: chave prim&#xe1;ria</text>
+	<text y='1395.0' x='1488.5'></text>
+	<text y='1403.0' x='1488.5'>nome</text>
+	<rect width='133.0' y='852.0' height='96.0' fill='#FFCC00' stroke-width='2' stroke='#000000' x='1158.5'/>
+	<text y='872.0' x='1163.5'>Trancamento</text>
+	<text y='880.0' x='1163.5'>-------------</text>
+	<text y='888.0' x='1163.5'></text>
+	<text y='896.0' x='1163.5'>id: chave prim&#xe1;ria</text>
+	<text y='904.0' x='1163.5'></text>
+	<text y='912.0' x='1163.5'>aluno_id: chave</text>
+	<text y='920.0' x='1163.5'></text>
+	<text y='928.0' x='1163.5'>ano: chave</text>
+	<text y='936.0' x='1163.5'></text>
+	<text y='944.0' x='1163.5'>periodo: chave</text>
+	<rect width='210.0' y='1735.0' height='80.0' fill='#FFCC00' stroke-width='2' stroke='#000000' x='95.0'/>
+	<text y='1755.0' x='100.0'>Arquivo</text>
+	<text y='1763.0' x='100.0'>-------------</text>
+	<text y='1771.0' x='100.0'></text>
+	<text y='1779.0' x='100.0'>id: chave prim&#xe1;ria</text>
+	<text y='1787.0' x='100.0'></text>
+	<text y='1795.0' x='100.0'>nome_arquivo</text>
+	<text y='1803.0' x='100.0'></text>
+	<text y='1811.0' x='100.0'>conteudo (VER SE &#xc9; POSS&#xcd;VEL)</text>
+	<rect width='140.0' y='436.0' height='128.0' fill='#FFCC00' stroke-width='2' stroke='#000000' x='2080.0'/>
+	<text y='456.0' x='2085.0'>Grade</text>
+	<text y='464.0' x='2085.0'>-------------</text>
+	<text y='472.0' x='2085.0'></text>
+	<text y='480.0' x='2085.0'>id: chave prim&#xe1;ria</text>
+	<text y='488.0' x='2085.0'></text>
+	<text y='496.0' x='2085.0'>curso_id: chave</text>
+	<text y='504.0' x='2085.0'></text>
+	<text y='512.0' x='2085.0'>nome</text>
+	<text y='520.0' x='2085.0'></text>
+	<text y='528.0' x='2085.0'>carga_obrigatorias</text>
+	<text y='536.0' x='2085.0'></text>
+	<text y='544.0' x='2085.0'>carga_opcao_limitada</text>
+	<text y='552.0' x='2085.0'></text>
+	<text y='560.0' x='2085.0'>carga_livres</text>
+	<rect width='140.0' y='960.0' height='80.0' fill='#FFCC00' stroke-width='2' stroke='#000000' x='2280.0'/>
+	<text y='980.0' x='2285.0'>Requisito</text>
+	<text y='988.0' x='2285.0'>-------------</text>
+	<text y='996.0' x='2285.0'></text>
+	<text y='1004.0' x='2285.0'>id: chave prim&#xe1;ria</text>
+	<text y='1012.0' x='2285.0'></text>
+	<text y='1020.0' x='2285.0'>disciplina_id: chave</text>
+	<text y='1028.0' x='2285.0'></text>
+	<text y='1036.0' x='2285.0'>requisito_id: chave</text>
+	<rect width='140.0' y='858.0' height='384.0' fill='#FFCC00' stroke-width='2' stroke='#000000' x='955.0'/>
+	<text y='878.0' x='960.0'>Pessoa</text>
+	<text y='886.0' x='960.0'>-------------</text>
+	<text y='894.0' x='960.0'></text>
+	<text y='902.0' x='960.0'>id: chave prim&#xe1;ria</text>
+	<text y='910.0' x='960.0'></text>
+	<text y='918.0' x='960.0'>login: chave</text>
+	<text y='926.0' x='960.0'></text>
+	<text y='934.0' x='960.0'>nome</text>
+	<text y='942.0' x='960.0'></text>
+	<text y='950.0' x='960.0'>data_nascimento</text>
+	<text y='958.0' x='960.0'></text>
+	<text y='966.0' x='960.0'>sexo</text>
+	<text y='974.0' x='960.0'></text>
+	<text y='982.0' x='960.0'>rg</text>
+	<text y='990.0' x='960.0'></text>
+	<text y='998.0' x='960.0'>orgao_expeditor</text>
+	<text y='1006.0' x='960.0'></text>
+	<text y='1014.0' x='960.0'>cpf: chave</text>
+	<text y='1022.0' x='960.0'></text>
+	<text y='1030.0' x='960.0'>telefone_residencial</text>
+	<text y='1038.0' x='960.0'></text>
+	<text y='1046.0' x='960.0'>telefone_comercial</text>
+	<text y='1054.0' x='960.0'></text>
+	<text y='1062.0' x='960.0'>e_mail</text>
+	<text y='1070.0' x='960.0'></text>
+	<text y='1078.0' x='960.0'>celular</text>
+	<text y='1086.0' x='960.0'></text>
+	<text y='1094.0' x='960.0'>logradouro</text>
+	<text y='1102.0' x='960.0'></text>
+	<text y='1110.0' x='960.0'>numero</text>
+	<text y='1118.0' x='960.0'></text>
+	<text y='1126.0' x='960.0'>complemento</text>
+	<text y='1134.0' x='960.0'></text>
+	<text y='1142.0' x='960.0'>bairro</text>
+	<text y='1150.0' x='960.0'></text>
+	<text y='1158.0' x='960.0'>cidade</text>
+	<text y='1166.0' x='960.0'></text>
+	<text y='1174.0' x='960.0'>estado</text>
+	<text y='1182.0' x='960.0'></text>
+	<text y='1190.0' x='960.0'>cep</text>
+	<text y='1198.0' x='960.0'></text>
+	<text y='1206.0' x='960.0'>nome_mae</text>
+	<text y='1214.0' x='960.0'></text>
+	<text y='1222.0' x='960.0'>nome_pai</text>
+	<text y='1230.0' x='960.0'></text>
+	<text y='1238.0' x='960.0'>etnia</text>
+	<rect width='189.0' y='78.0' height='144.0' fill='#FFCC00' stroke-width='2' stroke='#000000' x='2455.5'/>
+	<text y='98.0' x='2460.5'>Pretensao</text>
+	<text y='106.0' x='2460.5'>-------------</text>
+	<text y='114.0' x='2460.5'></text>
+	<text y='122.0' x='2460.5'>id: chave prim&#xe1;ria</text>
+	<text y='130.0' x='2460.5'></text>
+	<text y='138.0' x='2460.5'>disciplina_id: chave</text>
+	<text y='146.0' x='2460.5'></text>
+	<text y='154.0' x='2460.5'>alocacao_didatica_id: chave</text>
+	<text y='162.0' x='2460.5'></text>
+	<text y='170.0' x='2460.5'>periodo_matricula_id: chave</text>
+	<text y='178.0' x='2460.5'></text>
+	<text y='186.0' x='2460.5'>grau</text>
+	<text y='194.0' x='2460.5'></text>
+	<text y='202.0' x='2460.5'>diurno?</text>
+	<text y='210.0' x='2460.5'></text>
+	<text y='218.0' x='2460.5'>noturno?</text>
+	<rect width='133.0' y='1287.0' height='176.0' fill='#FFCC00' stroke-width='2' stroke='#000000' x='1658.5'/>
+	<text y='1307.0' x='1663.5'>Unidade</text>
+	<text y='1315.0' x='1663.5'>-------------</text>
+	<text y='1323.0' x='1663.5'></text>
+	<text y='1331.0' x='1663.5'>id: chave prim&#xe1;ria</text>
+	<text y='1339.0' x='1663.5'></text>
+	<text y='1347.0' x='1663.5'>campus_id: chave</text>
+	<text y='1355.0' x='1663.5'></text>
+	<text y='1363.0' x='1663.5'>nome</text>
+	<text y='1371.0' x='1663.5'></text>
+	<text y='1379.0' x='1663.5'>logradouro</text>
+	<text y='1387.0' x='1663.5'></text>
+	<text y='1395.0' x='1663.5'>numero</text>
+	<text y='1403.0' x='1663.5'></text>
+	<text y='1411.0' x='1663.5'>cidade</text>
+	<text y='1419.0' x='1663.5'></text>
+	<text y='1427.0' x='1663.5'>estado</text>
+	<text y='1435.0' x='1663.5'></text>
+	<text y='1443.0' x='1663.5'>cep</text>
+	<text y='1451.0' x='1663.5'></text>
+	<text y='1459.0' x='1663.5'>telefone</text>
+	<rect width='140.0' y='1527.0' height='96.0' fill='#FFCC00' stroke-width='2' stroke='#000000' x='2830.0'/>
+	<text y='1547.0' x='2835.0'>Matricula</text>
+	<text y='1555.0' x='2835.0'>-------------</text>
+	<text y='1563.0' x='2835.0'></text>
+	<text y='1571.0' x='2835.0'>id: chave prim&#xe1;ria</text>
+	<text y='1579.0' x='2835.0'></text>
+	<text y='1587.0' x='2835.0'>aluno_id: chave</text>
+	<text y='1595.0' x='2835.0'></text>
+	<text y='1603.0' x='2835.0'>codigo_autenticidade</text>
+	<text y='1611.0' x='2835.0'></text>
+	<text y='1619.0' x='2835.0'>tipo</text>
+	<rect width='217.0' y='2044.0' height='112.0' fill='#FFCC00' stroke-width='2' stroke='#000000' x='266.5'/>
+	<text y='2064.0' x='271.5'>Parametro</text>
+	<text y='2072.0' x='271.5'>-------------</text>
+	<text y='2080.0' x='271.5'></text>
+	<text y='2088.0' x='271.5'>id: chave prim&#xe1;ria</text>
+	<text y='2096.0' x='271.5'></text>
+	<text y='2104.0' x='271.5'>semanas_cancelamento</text>
+	<text y='2112.0' x='271.5'></text>
+	<text y='2120.0' x='271.5'>maximo_disciplinas_cancelamento</text>
+	<text y='2128.0' x='271.5'></text>
+	<text y='2136.0' x='271.5'>responsavel_opcao_curso_id</text>
+	<text y='2144.0' x='271.5'></text>
+	<text y='2152.0' x='271.5'>responsavel_trancamento_id</text>
+	<rect width='140.0' y='452.0' height='96.0' fill='#FFCC00' stroke-width='2' stroke='#000000' x='2305.0'/>
+	<text y='472.0' x='2310.0'>DisciplinaGrade</text>
+	<text y='480.0' x='2310.0'>-------------</text>
+	<text y='488.0' x='2310.0'></text>
+	<text y='496.0' x='2310.0'>id: chave prim&#xe1;ria</text>
+	<text y='504.0' x='2310.0'></text>
+	<text y='512.0' x='2310.0'>disciplina_id: chave</text>
+	<text y='520.0' x='2310.0'></text>
+	<text y='528.0' x='2310.0'>grade_id: chave</text>
+	<text y='536.0' x='2310.0'></text>
+	<text y='544.0' x='2310.0'>obrigatoriedade</text>
+	<rect width='140.0' y='1153.0' height='144.0' fill='#FFCC00' stroke-width='2' stroke='#000000' x='2005.0'/>
+	<text y='1173.0' x='2010.0'>Historico</text>
+	<text y='1181.0' x='2010.0'>-------------</text>
+	<text y='1189.0' x='2010.0'></text>
+	<text y='1197.0' x='2010.0'>id: chave prim&#xe1;ria</text>
+	<text y='1205.0' x='2010.0'></text>
+	<text y='1213.0' x='2010.0'>disciplina_id: chave</text>
+	<text y='1221.0' x='2010.0'></text>
+	<text y='1229.0' x='2010.0'>subgrupo_id: chave</text>
+	<text y='1237.0' x='2010.0'></text>
+	<text y='1245.0' x='2010.0'>nota</text>
+	<text y='1253.0' x='2010.0'></text>
+	<text y='1261.0' x='2010.0'>cancelada?</text>
+	<text y='1269.0' x='2010.0'></text>
+	<text y='1277.0' x='2010.0'>ano: chave</text>
+	<text y='1285.0' x='2010.0'></text>
+	<text y='1293.0' x='2010.0'>periodo: chave</text>
+	<rect width='133.0' y='727.0' height='96.0' fill='#FFCC00' stroke-width='2' stroke='#000000' x='958.5'/>
+	<text y='747.0' x='963.5'>Funcionario</text>
+	<text y='755.0' x='963.5'>-------------</text>
+	<text y='763.0' x='963.5'></text>
+	<text y='771.0' x='963.5'>id: chave prim&#xe1;ria</text>
+	<text y='779.0' x='963.5'></text>
+	<text y='787.0' x='963.5'>siape</text>
+	<text y='795.0' x='963.5'></text>
+	<text y='803.0' x='963.5'>area</text>
+	<text y='811.0' x='963.5'></text>
+	<text y='819.0' x='963.5'>pessoa_id: chave</text>
+	<rect width='133.0' y='1735.0' height='80.0' fill='#FFCC00' stroke-width='2' stroke='#000000' x='583.5'/>
+	<text y='1755.0' x='588.5'>AlocacaoDidatica</text>
+	<text y='1763.0' x='588.5'>-------------</text>
+	<text y='1771.0' x='588.5'></text>
+	<text y='1779.0' x='588.5'>id: chave prim&#xe1;ria</text>
+	<text y='1787.0' x='588.5'></text>
+	<text y='1795.0' x='588.5'>professor_id: chave</text>
+	<text y='1803.0' x='588.5'></text>
+	<text y='1811.0' x='588.5'>autenticidade</text>
+	<rect width='133.0' y='1319.0' height='112.0' fill='#FFCC00' stroke-width='2' stroke='#000000' x='1833.5'/>
+	<text y='1339.0' x='1838.5'>SalaAula</text>
+	<text y='1347.0' x='1838.5'>-------------</text>
+	<text y='1355.0' x='1838.5'></text>
+	<text y='1363.0' x='1838.5'>id: chave prim&#xe1;ria</text>
+	<text y='1371.0' x='1838.5'></text>
+	<text y='1379.0' x='1838.5'>unidade_id: chave</text>
+	<text y='1387.0' x='1838.5'></text>
+	<text y='1395.0' x='1838.5'>nome</text>
+	<text y='1403.0' x='1838.5'></text>
+	<text y='1411.0' x='1838.5'>capacidade_maxima</text>
+	<text y='1419.0' x='1838.5'></text>
+	<text y='1427.0' x='1838.5'>disponivel?</text>
+	<rect width='133.0' y='1460.0' height='80.0' fill='#FFCC00' stroke-width='2' stroke='#000000' x='2633.5'/>
+	<text y='1480.0' x='2638.5'>GrupoMatricula</text>
+	<text y='1488.0' x='2638.5'>-------------</text>
+	<text y='1496.0' x='2638.5'></text>
+	<text y='1504.0' x='2638.5'>id: chave prim&#xe1;ria</text>
+	<text y='1512.0' x='2638.5'></text>
+	<text y='1520.0' x='2638.5'>grupo_id: chave</text>
+	<text y='1528.0' x='2638.5'></text>
+	<text y='1536.0' x='2638.5'>matricula_id: chave</text>
+	<rect width='133.0' y='1652.0' height='96.0' fill='#FFCC00' stroke-width='2' stroke='#000000' x='958.5'/>
+	<text y='1672.0' x='963.5'>Diretiva</text>
+	<text y='1680.0' x='963.5'>-------------</text>
+	<text y='1688.0' x='963.5'></text>
+	<text y='1696.0' x='963.5'>id: chave prim&#xe1;ria</text>
+	<text y='1704.0' x='963.5'></text>
+	<text y='1712.0' x='963.5'>nome: chave</text>
+	<text y='1720.0' x='963.5'></text>
+	<text y='1728.0' x='963.5'>controlador: chave</text>
+	<text y='1736.0' x='963.5'></text>
+	<text y='1744.0' x='963.5'>permissoes[]</text>
+	<rect width='189.0' y='585.0' height='80.0' fill='#FFCC00' stroke-width='2' stroke='#000000' x='2280.5'/>
+	<text y='605.0' x='2285.5'>EquivalenciaInterna</text>
+	<text y='613.0' x='2285.5'>-------------</text>
+	<text y='621.0' x='2285.5'></text>
+	<text y='629.0' x='2285.5'>id: chave prim&#xe1;ria</text>
+	<text y='637.0' x='2285.5'></text>
+	<text y='645.0' x='2285.5'>disciplina_antiga_id: chave</text>
+	<text y='653.0' x='2285.5'></text>
+	<text y='661.0' x='2285.5'>disciplina_nova_id: chave</text>
+	<rect width='133.0' y='1085.0' height='80.0' fill='#FFCC00' stroke-width='2' stroke='#000000' x='2258.5'/>
+	<text y='1105.0' x='2263.5'>Falta</text>
+	<text y='1113.0' x='2263.5'>-------------</text>
+	<text y='1121.0' x='2263.5'></text>
+	<text y='1129.0' x='2263.5'>id: chave prim&#xe1;ria</text>
+	<text y='1137.0' x='2263.5'></text>
+	<text y='1145.0' x='2263.5'>data_da_falta</text>
+	<text y='1153.0' x='2263.5'></text>
+	<text y='1161.0' x='2263.5'>historico_id: chave</text>
+	<rect width='182.0' y='930.0' height='240.0' fill='#FFCC00' stroke-width='2' stroke='#000000' x='1334.0'/>
+	<text y='950.0' x='1339.0'>Aluno</text>
+	<text y='958.0' x='1339.0'>-------------</text>
+	<text y='966.0' x='1339.0'></text>
+	<text y='974.0' x='1339.0'>id: chave prim&#xe1;ria</text>
+	<text y='982.0' x='1339.0'></text>
+	<text y='990.0' x='1339.0'>matricula: chave</text>
+	<text y='998.0' x='1339.0'></text>
+	<text y='1006.0' x='1339.0'>telefone_residencial_atual</text>
+	<text y='1014.0' x='1339.0'></text>
+	<text y='1022.0' x='1339.0'>logradouro_atual</text>
+	<text y='1030.0' x='1339.0'></text>
+	<text y='1038.0' x='1339.0'>numero_atual</text>
+	<text y='1046.0' x='1339.0'></text>
+	<text y='1054.0' x='1339.0'>complemento_atual</text>
+	<text y='1062.0' x='1339.0'></text>
+	<text y='1070.0' x='1339.0'>bairro_atual</text>
+	<text y='1078.0' x='1339.0'></text>
+	<text y='1086.0' x='1339.0'>cidade_atual</text>
+	<text y='1094.0' x='1339.0'></text>
+	<text y='1102.0' x='1339.0'>estado_atual</text>
+	<text y='1110.0' x='1339.0'></text>
+	<text y='1118.0' x='1339.0'>cep_atual</text>
+	<text y='1126.0' x='1339.0'></text>
+	<text y='1134.0' x='1339.0'>professor_id: chave</text>
+	<text y='1142.0' x='1339.0'></text>
+	<text y='1150.0' x='1339.0'>pessoa_id: chave</text>
+	<text y='1158.0' x='1339.0'></text>
+	<text y='1166.0' x='1339.0'>grade_id: chave</text>
+	<rect width='189.0' y='1735.0' height='80.0' fill='#FFCC00' stroke-width='2' stroke='#000000' x='355.5'/>
+	<text y='1755.0' x='360.5'>ComprovanteAlocacaoDidatica</text>
+	<text y='1763.0' x='360.5'>-------------</text>
+	<text y='1771.0' x='360.5'></text>
+	<text y='1779.0' x='360.5'>id: chave prim&#xe1;ria</text>
+	<text y='1787.0' x='360.5'></text>
+	<text y='1795.0' x='360.5'>alocacao_didatica_id: chave</text>
+	<text y='1803.0' x='360.5'></text>
+	<text y='1811.0' x='360.5'>arquivo_id: chave</text>
+	<rect width='133.0' y='1303.0' height='144.0' fill='#FFCC00' stroke-width='2' stroke='#000000' x='2833.5'/>
+	<text y='1323.0' x='2838.5'>PeriodoMatricula</text>
+	<text y='1331.0' x='2838.5'>-------------</text>
+	<text y='1339.0' x='2838.5'></text>
+	<text y='1347.0' x='2838.5'>id: chave prim&#xe1;ria</text>
+	<text y='1355.0' x='2838.5'></text>
+	<text y='1363.0' x='2838.5'>ano: chave</text>
+	<text y='1371.0' x='2838.5'></text>
+	<text y='1379.0' x='2838.5'>periodo: chave</text>
+	<text y='1387.0' x='2838.5'></text>
+	<text y='1395.0' x='2838.5'>inicio_matricula</text>
+	<text y='1403.0' x='2838.5'></text>
+	<text y='1411.0' x='2838.5'>fim_matricula</text>
+	<text y='1419.0' x='2838.5'></text>
+	<text y='1427.0' x='2838.5'>inicio_ajuste</text>
+	<text y='1435.0' x='2838.5'></text>
+	<text y='1443.0' x='2838.5'>fim_ajuste</text>
+	<rect width='140.0' y='1719.0' height='112.0' fill='#FFCC00' stroke-width='2' stroke='#000000' x='780.0'/>
+	<text y='1739.0' x='785.0'>Professor</text>
+	<text y='1747.0' x='785.0'>-------------</text>
+	<text y='1755.0' x='785.0'></text>
+	<text y='1763.0' x='785.0'>id: chave prim&#xe1;ria</text>
+	<text y='1771.0' x='785.0'></text>
+	<text y='1779.0' x='785.0'>siape</text>
+	<text y='1787.0' x='785.0'></text>
+	<text y='1795.0' x='785.0'>dedicacao_exclusiva?</text>
+	<text y='1803.0' x='785.0'></text>
+	<text y='1811.0' x='785.0'>pessoa_id: chave</text>
+	<text y='1819.0' x='785.0'></text>
+	<text y='1827.0' x='785.0'>setor_id: chave</text>
+	<rect width='133.0' y='1535.0' height='80.0' fill='#FFCC00' stroke-width='2' stroke='#000000' x='958.5'/>
+	<text y='1555.0' x='963.5'>DiretivaPerfil</text>
+	<text y='1563.0' x='963.5'>-------------</text>
+	<text y='1571.0' x='963.5'></text>
+	<text y='1579.0' x='963.5'>id: chave prim&#xe1;ria</text>
+	<text y='1587.0' x='963.5'></text>
+	<text y='1595.0' x='963.5'>diretiva_id: chave</text>
+	<text y='1603.0' x='963.5'></text>
+	<text y='1611.0' x='963.5'>perfil_id: chave</text>
+	<rect width='133.0' y='444.0' height='112.0' fill='#FFCC00' stroke-width='2' stroke='#000000' x='1058.5'/>
+	<text y='464.0' x='1063.5'>Pedido</text>
+	<text y='472.0' x='1063.5'>-------------</text>
+	<text y='480.0' x='1063.5'></text>
+	<text y='488.0' x='1063.5'>id: chave prim&#xe1;ria</text>
+	<text y='496.0' x='1063.5'></text>
+	<text y='504.0' x='1063.5'>tipo: chave</text>
+	<text y='512.0' x='1063.5'></text>
+	<text y='520.0' x='1063.5'>aluno_id: chave</text>
+	<text y='528.0' x='1063.5'></text>
+	<text y='536.0' x='1063.5'>grade_id: chave</text>
+	<text y='544.0' x='1063.5'></text>
+	<text y='552.0' x='1063.5'>deferido?</text>
+	<rect width='133.0' y='1327.0' height='96.0' fill='#FFCC00' stroke-width='2' stroke='#000000' x='2008.5'/>
+	<text y='1347.0' x='2013.5'>Subgrupo</text>
+	<text y='1355.0' x='2013.5'>-------------</text>
+	<text y='1363.0' x='2013.5'></text>
+	<text y='1371.0' x='2013.5'>id: chave prim&#xe1;ria</text>
+	<text y='1379.0' x='2013.5'></text>
+	<text y='1387.0' x='2013.5'>horario_id: chave</text>
+	<text y='1395.0' x='2013.5'></text>
+	<text y='1403.0' x='2013.5'>professor_id: chave</text>
+	<text y='1411.0' x='2013.5'></text>
+	<text y='1419.0' x='2013.5'>sala_aula_id: chave</text>
+	<rect width='133.0' y='1002.0' height='96.0' fill='#FFCC00' stroke-width='2' stroke='#000000' x='2083.5'/>
+	<text y='1022.0' x='2088.5'>CP</text>
+	<text y='1030.0' x='2088.5'>-------------</text>
+	<text y='1038.0' x='2088.5'></text>
+	<text y='1046.0' x='2088.5'>id: chave prim&#xe1;ria</text>
+	<text y='1054.0' x='2088.5'></text>
+	<text y='1062.0' x='2088.5'>aluno_id: chave</text>
+	<text y='1070.0' x='2088.5'></text>
+	<text y='1078.0' x='2088.5'>grade_id: chave</text>
+	<text y='1086.0' x='2088.5'></text>
+	<text y='1094.0' x='2088.5'>coeficiente</text>
+	<rect width='189.0' y='1861.0' height='128.0' fill='#FFCC00' stroke-width='2' stroke='#000000' x='555.5'/>
+	<text y='1881.0' x='560.5'>AlocacaoOutrasInformacoes</text>
+	<text y='1889.0' x='560.5'>-------------</text>
+	<text y='1897.0' x='560.5'></text>
+	<text y='1905.0' x='560.5'>id: chave prim&#xe1;ria</text>
+	<text y='1913.0' x='560.5'></text>
+	<text y='1921.0' x='560.5'>alocacao_didatica_id: chave</text>
+	<text y='1929.0' x='560.5'></text>
+	<text y='1937.0' x='560.5'>cargo</text>
+	<text y='1945.0' x='560.5'></text>
+	<text y='1953.0' x='560.5'>cargo_comites?</text>
+	<text y='1961.0' x='560.5'></text>
+	<text y='1969.0' x='560.5'>cargo_comites_texto</text>
+	<text y='1977.0' x='560.5'></text>
+	<text y='1985.0' x='560.5'>outras_informacoes</text>
+	<rect width='133.0' y='318.0' height='64.0' fill='#FFCC00' stroke-width='2' stroke='#000000' x='783.5'/>
+	<text y='338.0' x='788.5'>Setor</text>
+	<text y='346.0' x='788.5'>-------------</text>
+	<text y='354.0' x='788.5'></text>
+	<text y='362.0' x='788.5'>id: chave prim&#xe1;ria</text>
+	<text y='370.0' x='788.5'></text>
+	<text y='378.0' x='788.5'>nome</text>
+	<rect width='189.0' y='1327.0' height='96.0' fill='#FFCC00' stroke-width='2' stroke='#000000' x='2605.5'/>
+	<text y='1347.0' x='2610.5'>Grupo</text>
+	<text y='1355.0' x='2610.5'>-------------</text>
+	<text y='1363.0' x='2610.5'></text>
+	<text y='1371.0' x='2610.5'>id: chave prim&#xe1;ria</text>
+	<text y='1379.0' x='2610.5'></text>
+	<text y='1387.0' x='2610.5'>nome</text>
+	<text y='1395.0' x='2610.5'></text>
+	<text y='1403.0' x='2610.5'>periodo_matricula_id: chave</text>
+	<text y='1411.0' x='2610.5'></text>
+	<text y='1419.0' x='2610.5'>disciplina_id: chave</text>
+	<rect width='133.0' y='1418.0' height='64.0' fill='#FFCC00' stroke-width='2' stroke='#000000' x='958.5'/>
+	<text y='1438.0' x='963.5'>Perfil</text>
+	<text y='1446.0' x='963.5'>-------------</text>
+	<text y='1454.0' x='963.5'></text>
+	<text y='1462.0' x='963.5'>id: chave prim&#xe1;ria</text>
+	<text y='1470.0' x='963.5'></text>
+	<text y='1478.0' x='963.5'>nome</text>
+</svg>

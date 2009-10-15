@@ -40,7 +40,6 @@ module SVGBuilder
     end
 
     def method_missing(elemento, *params)
-      p params
       super if(params.size > 2)
 
       texto = nil
