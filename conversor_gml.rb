@@ -44,14 +44,37 @@ module ConversorGML
       atributos.merge 'points' => points
     end
 
-    build_svg do
+    build_svg(true) do
       edges.each do |e|
         o, d = e['source'], e['target']
         o, d = nos[o], nos[d]
 
-        e['points'].each_cons(2) do |o, d|
-          line(:x1 => o['x'] + CORRETIVO , :x2 => d['x'] + CORRETIVO, 
-            :y1 => o['y'] + CORRETIVO, :y2 => d['y'] + CORRETIVO, :cor => 'black', :linha => 1)
+        elementos_em_dois = e['points'].each_cons(2).to_a
+        elementos_em_dois.each_with_index do |(o, d), indice|
+          atributos = {
+            :x1 => o['x'] + CORRETIVO , :x2 => d['x'] + CORRETIVO,
+            :y1 => o['y'] + CORRETIVO, :y2 => d['y'] + CORRETIVO, :cor => 'black', 
+            :linha => 1
+          }
+
+          if(indice == 0)
+            #Início
+            if(e['sourceArrow'] == 'dash')
+              atributos['marker-start'] = 'url(#umS)'
+            else
+               atributos['marker-start'] = 'url(#muitosS)'
+            end
+          end
+          if(indice == elementos_em_dois.size - 1)
+            #Fim
+            if(e['targetArrow'] == 'dash')
+              atributos['marker-end'] = 'url(#umE)'
+            else
+               atributos['marker-end'] = 'url(#muitosE)'
+            end
+          end
+
+          line(atributos)
         end
       end
 

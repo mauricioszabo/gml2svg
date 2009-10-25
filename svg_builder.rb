@@ -1,7 +1,7 @@
 require 'hash'
 
 module SVGBuilder
-  def build_svg(&b)
+  def build_svg(incluir_setas = false, &b)
     svg = SVG.new
 
     corpo = ''
@@ -12,6 +12,24 @@ module SVGBuilder
     header += "<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 20010904//EN'" +
       " 'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>\n"
     header += "<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'>\n"
+
+    header += '  <defs>
+    <marker id="umE" viewBox="0 0 20 20" refX="20" refY="10" markerUnits="strokeWidth" orient="auto" markerWidth="20" markerHeight="20">
+      <polyline points="10,0 10,20" stroke-width="1" stroke="black" fill="white"  />
+    </marker>
+
+    <marker id="muitosS" viewBox="0 0 20 20" refX="0" refY="10" markerUnits="strokeWidth" orient="auto" markerWidth="20" markerHeight="20">
+      <polyline points="0,0 15,10 0,20" stroke-width="1" stroke="black" fill="none"  />
+    </marker>
+
+    <marker id="umS" viewBox="0 0 20 20" refX="0" refY="10" markerUnits="strokeWidth" orient="auto" markerWidth="20" markerHeight="20">
+      <polyline points="10,0 10,20" stroke-width="1" stroke="black" fill="white"  />
+    </marker>
+
+    <marker id="muitosE" viewBox="0 0 20 20" refX="20" refY="10" markerUnits="strokeWidth" orient="auto" markerWidth="20" markerHeight="20">
+      <polyline points="20,0 5,10 20,20" stroke-width="1" stroke="black" fill="none"  />
+    </marker>
+  </defs>' if(incluir_setas)
 
     footer = "\n</svg>"
     
